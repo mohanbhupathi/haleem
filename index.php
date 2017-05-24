@@ -14,7 +14,7 @@ if(isUserLoggedIn()) {
 	exit();
 }
 if(2)
-    addAlert("testing for a commit");
+    addAlert("testing for a commit2");
 ?>
 
 <!DOCTYPE html>

@@ -28,7 +28,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 */
-
+if(1)
+{
+    addAlert("testing after merging");
+}
 require_once("models/config.php");
 
 // Public page

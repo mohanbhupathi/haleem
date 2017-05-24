@@ -13,7 +13,8 @@ if(isUserLoggedIn()) {
     header("Location: account");
 	exit();
 }
-
+if(2)
+    addAlert("testing for a commit");
 ?>
 
 <!DOCTYPE html>

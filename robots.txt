@@ -16,3 +16,4 @@ Sitemap: http://www.domain.com/sitemap.xml
 
 
 creating website for snist college 
+hey this is a new commit message

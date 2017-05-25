@@ -12,3 +12,7 @@ Disallow: /install/
 Disallow: /css/
 Disallow: /privatemessages/
 Sitemap: http://www.domain.com/sitemap.xml
+
+
+
+creating website for snist college 

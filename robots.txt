@@ -12,3 +12,11 @@ Disallow: /install/
 Disallow: /css/
 Disallow: /privatemessages/
 Sitemap: http://www.domain.com/sitemap.xml
+<<<<<<< HEAD
+=======
+
+
+
+creating website for snist college 
+hey this is a new commit message
+>>>>>>> revision

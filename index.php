@@ -16,7 +16,7 @@ if(isUserLoggedIn()) {
 if(2)
     addAlert("testing stash");
 ?>
-
+hello
 <!DOCTYPE html>
 <html lang="en">
   <?php

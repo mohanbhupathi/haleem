@@ -17,6 +17,8 @@ if(2)
     addAlert("testing stash");
 ?>
 hello
+
+my name is mohan
 <!DOCTYPE html>
 <html lang="en">
   <?php

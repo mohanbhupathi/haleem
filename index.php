@@ -1,6 +1,6 @@
 <?php
 
-
+hi this is ramu
 require_once("models/config.php");
 
 // Public page

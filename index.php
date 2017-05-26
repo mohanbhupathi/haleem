@@ -14,9 +14,9 @@ if(isUserLoggedIn()) {
 	exit();
 }
 if(2)
-    addAlert("testing for a commit");
+    addAlert("testing stash");
 ?>
-
+hello
 <!DOCTYPE html>
 <html lang="en">
   <?php

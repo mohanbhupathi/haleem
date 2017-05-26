@@ -45,7 +45,7 @@ hello
       <?php echo renderTemplate("footer.html"); ?>
 
     </div> <!-- /container -->
-
+hi this is mohan
   </body>
 </html>
 

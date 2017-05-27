@@ -19,7 +19,6 @@ if(2)
 hello
 
 my name is mohan
-hey editing again to check what is merge option
 <!DOCTYPE html>
 <html lang="en">
   <?php

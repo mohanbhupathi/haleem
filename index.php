@@ -14,7 +14,7 @@ if(isUserLoggedIn()) {
 	exit();
 }
 if(2)
-    addAlert("testing stash");
+    addAlert("my branch");
 ?>
 hello
 

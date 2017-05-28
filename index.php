@@ -4,7 +4,7 @@ hi this is ramu
 require_once("models/config.php");
 
 // Public page
-sunday is a fun day
+
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
 //Forward the user to their default page if he/she is already logged in
